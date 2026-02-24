@@ -1,6 +1,6 @@
 # HSI Sentiment Strategy
 
-Using social media pre-market votes to trade the Hang Seng Index as a contrarian indicator.
+Using social media pre-market votes to trade the Hang Seng Index as a contrarian indicator, combined with technical indicator (SMA, RSI, MACD).
 
 The crowd is directionally correct only 47.8% of the time. Fading extreme crowd conviction
 combined with a SMA filter delivers +31.6% total return vs Buy and Hold +6.5%, with a
